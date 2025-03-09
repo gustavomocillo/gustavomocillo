@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-<p align="center">Desenvolvedor C#, buscando sempre evoluir. <br><br> Desenvolvedor iniciante, apenas buscando a primeira oportunidade para poder provar seu valor.</p>&nbsp;
+<p align="center">Desenvolvedor C#, buscando sempre evoluir. <br><br> Desenvolvedor iniciante, atualmente estudo C# / .NET, Entity Framework Core e SQL Server, sempre buscando aprender e aprimorar minhas habilidades. Em busca da primeira oportunidade para poder provar meu valor.</p>&nbsp;
  &nbsp;
  &nbsp;
 
