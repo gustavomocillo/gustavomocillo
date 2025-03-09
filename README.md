@@ -1,4 +1,4 @@
-## Hello World! 👋
+## Hello, World! 👋
 
 <p align="center">Desenvolvedor C#, buscando sempre evoluir. <br><br> Desenvolvedor iniciante, apenas buscando a primeira oportunidade para poder provar seu valor.</p>&nbsp;
  &nbsp;
